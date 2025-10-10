@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to this project are documented in this file.
+This file documents notable changes to this project done before November 2023. For changes after that date, plase refers to the release notes of each release at https://github.com/robotology/walking-controllers/releases .
 
 ## [0.8.0] - 2023-11-15
 ### Added
